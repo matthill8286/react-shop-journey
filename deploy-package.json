@@ -1,0 +1,11 @@
+{
+  "name": "react-shop-journey",
+  "description": "React Shop Web App",
+  "repository": "https://github.com/matthill8286/react-shop-journey",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "4.16.4",
+    "json-server": "0.14.2",
+    "connect-history-api-fallback": "1.6.0"
+  }
+}
